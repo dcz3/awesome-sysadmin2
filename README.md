@@ -516,6 +516,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer.
 * [TRK](http://trinityhome.org) - CPR for your computer! Trinity Rescue Kit is a linux toolkit as a livecd for general computer troubleshooting. Useful for Win, Linux, and OSX.
 * [Wireshark](http://www.wireshark.org/) - Open-source packet analyzer. Previously known as Ethereal.
+* [NextJSON](https://nextjson.com/) - Free online nested JSON parser and formatter that decodes escaped JSON strings, handy for troubleshooting logs and API payloads.
 
 ## Project Management
 *Web-based project management and bug tracking systems.*
